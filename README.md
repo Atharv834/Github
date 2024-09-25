@@ -4,7 +4,6 @@
 
 # Git Commands Cheat Sheet
 
-Yeh Git commands ka cheat sheet hai jo aapko Git ke basic operations samajhne mein madad karega.
 
 ## Initializing a Repository
 ```bash
